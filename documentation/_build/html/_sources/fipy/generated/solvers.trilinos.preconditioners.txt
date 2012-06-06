@@ -1,0 +1,85 @@
+:mod:`preconditioners` Package Documentation
+============================================
+
+This page contains the preconditioners Package documentation.
+
+The :mod:`multilevelDDMLPreconditioner` Module
+----------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelDDMLPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`multilevelSAPreconditioner` Module
+--------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelSAPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`domDecompPreconditioner` Module
+-----------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.domDecompPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`jacobiPreconditioner` Module
+--------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.jacobiPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`multilevelNSSAPreconditioner` Module
+----------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelNSSAPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`multilevelDDPreconditioner` Module
+--------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelDDPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`icPreconditioner` Module
+----------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.icPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`multilevelSolverSmootherPreconditioner` Module
+--------------------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelSolverSmootherPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`multilevelSGSPreconditioner` Module
+---------------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.multilevelSGSPreconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`preconditioner` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.trilinos.preconditioners.preconditioner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

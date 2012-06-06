@@ -1,0 +1,37 @@
+:mod:`matrices` Package Documentation
+=====================================
+
+This page contains the matrices Package documentation.
+
+The :mod:`trilinosMatrix` Module
+--------------------------------
+
+.. automodule:: fipy.matrices.trilinosMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`pysparseMatrix` Module
+--------------------------------
+
+.. automodule:: fipy.matrices.pysparseMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.matrices.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`sparseMatrix` Module
+------------------------------
+
+.. automodule:: fipy.matrices.sparseMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
